@@ -1,4 +1,3 @@
-User
 #!/bin/bash
 
 # Read a line from the input adapter file.
